@@ -6,7 +6,7 @@ Ein Windows-Tool (PowerShell + WPF, keine Installation nötig), das einen Amazon
 
 > Deutsch · [English summary below](#english)
 
-![Dashboard](docs/screenshot_dashboard.png)
+![Dashboard](screenshot_dashboard.png)
 
 ## Funktionen
 
